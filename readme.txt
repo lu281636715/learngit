@@ -4,3 +4,4 @@ wo yao xiugai ta l
 again to learan
 Git tracks changes.
 Creating a new branch is quick and simple.
+add merge
